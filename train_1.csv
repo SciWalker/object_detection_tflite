@@ -1,0 +1,2 @@
+train_data,validation_data,test_data
+r'D:\Projects\iot\GreenHouse\PlantReg_v2\TensorFlow\training\images\train',r'D:\Projects\iot\GreenHouse\PlantReg_v2\TensorFlow\training\images\test',r'D:\Projects\iot\GreenHouse\PlantReg_v2\TensorFlow\training\images\validation'
